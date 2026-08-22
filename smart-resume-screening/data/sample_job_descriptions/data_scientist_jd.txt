@@ -1,0 +1,15 @@
+Job Title: Data Scientist / Machine Learning Engineer
+
+We are hiring a Data Scientist / Machine Learning Engineer to join our AI team.
+
+Required Skills: Python, SQL, Machine Learning, Scikit-learn, Pandas, NumPy
+Preferred Skills: TensorFlow, PyTorch, FastAPI, Docker, AWS
+
+Education: Bachelor's degree in Computer Science, Data Science, or a related field.
+Experience: 3+ years of experience in data science or machine learning roles.
+
+Responsibilities:
+- Build and deploy machine learning models
+- Analyze large datasets and extract actionable insights
+- Collaborate with engineering teams to productionize models
+- Communicate findings to non-technical stakeholders
